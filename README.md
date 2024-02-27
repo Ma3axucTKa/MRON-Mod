@@ -5,6 +5,7 @@ It includes:
 1. Configs
 2. Scripts
 3. Dll
+
 Scripts are used when you're hosting matches, so if you're just a player, not hoster, you can play without them. Same goes for scripts, but they also stand for visuals ingame. Dll is needed for visual features only.
 
 INSTALLATION 
