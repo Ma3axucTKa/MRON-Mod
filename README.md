@@ -11,9 +11,9 @@ Scripts are used when you're hosting matches, so if you're just a player, not ho
 INSTALLATION 
 
 1. Download latest release .zip. Open it.
-2. Put all .cfg and .json files from Configs folder to /Documents/Call of Duty Modern Warfare/players/
-3. Put script.gscbin to your game folder and 1816.gscbin to your game folder/donetsk/scripts/
-4. Put discord_game_sdk.dll to your game folder with replacement.
+2. Put all files from "players" folder to /Documents/Call of Duty Modern Warfare/players/
+3. Put everything from Scripts to /Your Game Folder/
+4. Put discord_game_sdk.dll from CustomDll to your game folder with replacement
 5. Done! Launch the game and press F1 to see menu.
 
 HOW TO USE
